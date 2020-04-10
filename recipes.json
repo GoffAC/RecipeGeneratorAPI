@@ -1,0 +1,161 @@
+{
+  "name": "MasterV1.0",
+  "recipes": [
+    {
+      "name": "Steak, Chips and Greens",
+      "components": [
+        "steaks",
+        "chips",
+        "grilledGreens"
+      ],
+      "potentialComponents": [
+        "peas",
+        "sweetcorns",
+        "watercress",
+        "tomatoes",
+        "condiments"
+      ]
+    },
+    {
+      "name": "Asian Veg with Meat",
+      "components": [
+        "lightMeats",
+        "stirFryVegetables",
+        "soySauces"
+      ],
+      "potentialComponents": [
+        "onions",
+        "garlics",
+        "gingers",
+        "cashews",
+        "lightStocks"
+      ]
+    },
+    {
+      "name": "Tacos",
+      "components": [
+        "minces",
+        "lettuces",
+        "onions",
+        "tomatoes",
+        "limes"
+      ],
+      "potentialComponents": [
+        "avocados",
+        "mexicanBreads"
+      ]
+    },
+    {
+      "name": "Greek Kebab Skewers",
+      "components": [
+        "lightMeatsNoFish",
+        "lemons",
+        "onions",
+        "peppers"
+      ],
+      "potentialComponents": [
+        "tomatoes",
+        "greekBreads",
+        "hummus"
+      ]
+    },
+    {
+      "name": "Meatza",
+      "components": [
+        "minces",
+        "tomatoPuree",
+        "pizzaCheeses",
+        "pizzaToppings"
+      ]
+    },
+    {
+      "name": "Pizza",
+      "components": [
+        "pizzaBases",
+        "tomatoPuree",
+        "pizzaCheeses",
+        "pizzaToppings"
+      ]
+    },
+    {
+      "name": "Roast Chicken and Veg",
+      "components": [
+        "chicken",
+        "roastableVeg",
+        "garlics"
+      ]
+    },
+    {
+      "name": "Sausage and Mash",
+      "components": [
+        "whitePotatoes",
+        "sausages",
+        "gravies",
+        "soySauces"
+      ]
+    },
+    {
+      "name": "Fajitas",
+      "components": [
+        "lightMeatsNoFish",
+        "lettuces",
+        "onions",
+        "tomatoes",
+        "mexicanBreads"
+      ],
+      "potentialComponents": [
+        "avocados",
+        "limes"
+      ]
+    },
+    {
+      "name": "Curry",
+      "components": [
+        "curryMeats",
+        "onions",
+        "curryPowder"
+      ],
+      "potentialComponents": [
+        "spinach"
+      ]
+    },
+    {
+      "name": "Salad",
+      "components": [
+        "lettuces",
+        "carrots",
+        "tomatoes",
+        "peppers"
+      ],
+      "potentialComponents": [
+        "spinach",
+        "avocados",
+        "pizzaToppings",
+        "nutSnacks",
+        "pickledBeetroot",
+        "egg",
+        "scotchEggs"
+
+      ]
+    },
+    {
+      "name": "Casserole",
+      "components": [
+        "lettuces",
+        "carrots",
+        "tomatoes",
+        "peppers"
+      ],
+      "potentialComponents": [
+        "spinach",
+        "avocados",
+        "pizzaToppings",
+        "nutSnacks",
+        "pickledBeetroot",
+        "egg",
+        "scotchEggs"
+
+      ]
+    }
+  ]
+}

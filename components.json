@@ -1,0 +1,382 @@
+{
+  "name": "MasterV1.0",
+  "components": [
+    {
+      "name": "steaks",
+      "ingredients": [
+        "steak",
+        "veggie steak",
+        "chicken thighs"
+      ]
+    },
+    {
+      "name": "chips",
+      "ingredients": [
+        "frozen chips",
+        "sweet potato",
+        "potatoes"
+      ]
+    },
+    {
+      "name": "grilledGreens",
+      "ingredients": [
+        "broccoli",
+        "tender stem broccoli",
+        "asparagus",
+        "runner beans",
+        "kale"
+      ]
+    },
+    {
+      "name": "peas",
+      "ingredients": [
+        "peas"
+      ]
+    },
+    {
+      "name": "sweetcorns",
+      "ingredients": [
+        "sweetcorn"
+      ]
+    },
+    {
+      "name": "watercress",
+      "ingredients": [
+        "watercress"
+      ]
+    },
+    {
+      "name": "tomatoes",
+      "ingredients": [
+        "tomatoes"
+      ]
+    },
+    {
+      "name": "condiments",
+      "ingredients": [
+        "tomato sauce",
+        "mayonnaise",
+        "bbq sauce"
+      ]
+    },
+    {
+      "name": "lightMeats",
+      "ingredients": [
+        "chicken",
+        "chicken thighs",
+        "salmon",
+        "tuna",
+        "turkey",
+        "mackerel",
+        "cod",
+        "quorn chicken"
+      ]
+    },
+    {
+      "name": "lightMeatsNoFish",
+      "ingredients": [
+        "chicken",
+        "chicken thighs",
+        "turkey",
+        "quorn chicken"
+      ]
+    },
+    {
+      "name": "stirFryVegetables",
+      "minimumIngredients": 3,
+      "ingredients": [
+        "cabbage",
+        "carrot",
+        "spring onion",
+        "pak choi",
+        "broccoli",
+        "shitake mushrooms",
+        "mushrooms",
+        "peppers",
+        "baby corn",
+        "beansprouts",
+        "water chestnuts",
+        "courgette",
+        "sugar snap peas"
+      ]
+    },
+    {
+      "name": "soySauces",
+      "ingredients": [
+        "dark soy sauce",
+        "light soy sauce"
+      ]
+    },
+    {
+      "name": "onions",
+      "ingredients": [
+        "red onions",
+        "white onions",
+        "brown onions"
+      ]
+    },
+    {
+      "name": "garlics",
+      "ingredients": [
+        "garlic cloves",
+        "garlic powder",
+        "garlic"
+      ]
+    },
+    {
+      "name": "gingers",
+      "ingredients": [
+        "ginger",
+        "ground ginger"
+      ]
+    },
+    {
+      "name": "cashews",
+      "ingredients": [
+        "cashews"
+      ]
+    },
+    {
+      "name": "lightStocks",
+      "ingredients": [
+        "vegetable stock",
+        "chicken stock"
+      ]
+    },
+    {
+      "name": "minces",
+      "ingredients": [
+        "beef mince",
+        "chicken mince",
+        "turkey mince",
+        "quorn mince",
+        "veggie mince"
+      ]
+    },
+    {
+      "name": "lettuces",
+      "ingredients": [
+        "lettuce",
+        "iceberg lettuce",
+        "little gem lettuce"
+      ]
+    },
+    {
+      "name": "limes",
+      "ingredients": [
+        "lime"
+      ]
+    },
+    {
+      "name": "lemons",
+      "ingredients": [
+        "lemon"
+      ]
+    },
+    {
+      "name": "peppers",
+      "ingredients": [
+        "peppers",
+        "red pepper",
+        "orange pepper",
+        "green pepper",
+        "yellow pepper"
+      ]
+    },
+    {
+      "name": "avocados",
+      "ingredients": [
+        "avocado"
+      ]
+    },
+    {
+      "name": "mexicanBreads",
+      "ingredients": [
+        "taco shells",
+        "tortilla",
+        "wraps"
+      ]
+    },
+    {
+      "name": "greekBread",
+      "ingredients": [
+        "flat bread",
+        "tortilla",
+        "wraps"
+      ]
+    },
+    {
+      "name": "hummus",
+      "ingredients": [
+        "hummus",
+        "hummous",
+        "tzatziki"
+      ]
+    },
+    {
+      "name": "tomatoPuree",
+      "ingredients": [
+        "tomato puree"
+      ]
+    },
+    {
+      "name": "pizzaCheeses",
+      "ingredients": [
+        "mozzarella",
+        "cheddar",
+        "edam"
+      ]
+    },
+    {
+      "name": "pizzaToppings",
+      "ingredients": [
+        "peppers",
+        "onions",
+        "olives",
+        "tomatoes",
+        "pepperoni",
+        "sweetcorn",
+        "chicken",
+        "ham"
+      ]
+    },
+    {
+      "name": "pizzaBases",
+      "ingredients": [
+        "pizza base",
+        "puff pastry",
+        "dough"
+      ]
+    },
+    {
+      "name": "chicken",
+      "ingredients": [
+        "chicken thighs",
+        "chicken drumsticks",
+        "roast chicken",
+        "whole chicken"
+      ]
+    },
+    {
+      "name": "roastableVeg",
+      "ingredients": [
+        "carrots",
+        "sweet potatoes",
+        "peppers",
+        "onions",
+        "beetroot",
+        "white potatoes",
+        "potatoes",
+        "tomatoes",
+        "cauliflower",
+        "parsnips",
+        "leek"
+      ]
+    },
+    {
+      "name": "whitePotatoes",
+      "ingredients": [
+        "white potatoes"
+      ]
+    },
+    {
+      "name": "sausages",
+      "ingredients": [
+        "sausages",
+        "veggie sausages",
+        "vegetarian sausages",
+        "vegan sausages",
+        "quorn sausages",
+        "chicken sausages",
+        "chipolatas"
+      ]
+    },
+    {
+      "name": "gravies",
+      "ingredients": [
+        "beef gravy",
+        "bisto"
+      ]
+    },
+    {
+      "name": "soySauces",
+      "ingredients": [
+        "light soy",
+        "dark soy"
+      ]
+    },
+    {
+      "name": "curryMeats",
+      "ingredients": [
+        "chicken",
+        "chicken thighs",
+        "turkey",
+        "quorn chicken",
+        "paneer"
+      ]
+    },
+    {
+      "name": "spinach",
+      "ingredients": [
+        "spinach"
+      ]
+    },
+    {
+      "name": "curryPowder",
+      "ingredients": [
+        "curry powder"
+      ]
+    },
+    {
+      "name": "carrots",
+      "ingredients": [
+        "carrot",
+        "carrots",
+        "carrot sticks"
+      ]
+    },
+    {
+      "name": "nutSnack",
+      "ingredients": [
+        "almonds",
+        "cashews",
+        "peanuts"
+      ]
+    },
+    {
+      "name": "falafel",
+      "ingredients": [
+        "falafel",
+        "beetroot falafel"
+      ]
+    },
+    {
+      "name": "pickledBeetroot",
+      "ingredients": [
+        "pickled beetroot"
+      ]
+    },
+    {
+      "name": "egg",
+      "ingredients": [
+        "egg",
+        "eggs"
+      ]
+    },
+    {
+      "name": "scotchEgg",
+      "ingredients": [
+        "scotch eggs",
+        "scotch egg"
+      ]
+    },
+    {
+      "name":"mushrooms",
+      "ingredients": [
+        "mushrooms",
+        "shitake mushrooms",
+        "oyster mushrooms"
+      ]
+    }
+  ]
+}
